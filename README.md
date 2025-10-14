@@ -14,6 +14,7 @@
 | Deutsch | ❌ |
 
 **✅ Languages Has Been Added Already...**
+
 **❌ Languages Will Be Added Soon...**
 # How To Use:
 - Go to the file for any language, choose words file, copy the all words, and put them in Automod. If there is an update in any language you chose, copy all the words and replace them with the old ones (To know if there is an update for any language, you must star the repo and wait for any release to be released for the language you are using)
