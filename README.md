@@ -5,7 +5,7 @@
 | Language Name | Avaliable?! |
 |--------|-------|
 | Arabic | ✅ |
-| English | ❌ |
+| English | ⚠️ 15% |
 | Persian | ❌ |
 | Turkish | ❌ |
 | Russian | ❌ |
