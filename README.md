@@ -12,6 +12,11 @@
 | Spanish | ❌ |
 | Greek | ❌ |
 | Deutsch | ❌ |
+# Avaliable Bans:
+| Method Name | Avaliable?! |
+|--------|-------|
+| Block Links | ✅ |
+- if u got any method ideas, send it trough issues
 
 **✅ Languages Has Been Added Already...**
 
